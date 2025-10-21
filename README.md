@@ -1,0 +1,1 @@
+This is a clone of a popular game which is embedded in the Chrome browser where you play as a dinosaur which jumps over obstacles. You can try it here: https://play.unity.com/en/games/20ba66b2-9ac5-49ae-98b6-cb9715dfafd6/google-dinosaur-game-clone
